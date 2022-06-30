@@ -26,6 +26,8 @@
 // document.write("<p>hola "+(persona) + "</p>");
 
 
-let numero = prompt();
-let numeroDos = prompt();
-document.write("<p>resultado: "+ (numero+numeroDos) + "</p>");
+// ejercicio numero 5 solicitar al usuario 2 numeros sumarlos y mostrar el resultado en pantalla
+
+let numero = parseInt(prompt("ingresa el primer numero"));
+let numero2 = parseInt(prompt("ingresa el segundo numero"));
+document.write("<p>Resultado: " + (numero+numero2) + "</p>");
