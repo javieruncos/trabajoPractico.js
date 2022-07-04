@@ -13,7 +13,7 @@
 
 
 
-// ejercicio nuemro 3 
+// ejercicio numero 3 
 // escribir un programa que escriba enpantalla el resultado de 3+5
 // let numero = 2;
 // document.write("<p>Resultado: " + (3 + numero) + "</p>")
@@ -46,6 +46,7 @@
 // }
 
 // ejercicio 7 pedir al usuario 3 numeros y mostrar en pantalla el numero mayor
+
 // let numero = parseInt(prompt("ingresa un numero"));
 // let numero2 = parseInt(prompt("ingresa el segundo un numero"));
 // let numero3 = parseInt(prompt("ingresa el tercer  numero"));
@@ -67,4 +68,3 @@
 
    
 
- 
